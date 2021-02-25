@@ -1143,3 +1143,648 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.02.25-13.23.24:520][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/DavisSlime' took 0.141
 [2021.02.25-13.23.24:520][913]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.141
 [2021.02.25-13.26.00:138][424]Cmd: SELECT NONE
+[2021.02.25-13.33.24:932][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.02.25-13.33.24:976][217]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_Auto2D58E802A44B9F26E97F3898D4050FA5E.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Autosaves/Game/TopDownBP/Maps/DavisSlime_Auto2.umap'
+[2021.02.25-13.33.24:984][217]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDownBP/Maps/DavisSlime' took 0.069
+[2021.02.25-13.33.24:984][217]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2021.02.25-13.35.21:109][746]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.02.25-13.35.21:186][746]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlimeEAC765CE45740C7ED6669D8DA29B75FD.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap'
+[2021.02.25-13.35.21:627][746]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_BuiltDataFD1581CA489950A304D7B79B2C3F8B81.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime_BuiltData.uasset'
+[2021.02.25-13.35.21:651][746]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.25-13.35.21:651][746]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/DavisSlime.DavisSlime
+[2021.02.25-13.35.21:651][746]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/DavisSlime_BuiltData.DavisSlime_BuiltData
+[2021.02.25-13.37.22:860][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1285' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:860][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1285.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:860][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1287' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:860][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1287.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:866][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1288' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:866][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1288.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:866][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1289' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:866][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1289.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1291' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1291.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1292' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1292.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1293' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1293.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1295' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:867][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1295.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1296' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1296.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1297' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1297.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1298' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1298.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1299' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1299.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1300' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:868][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1300.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1301' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1301.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1302' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1302.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1303' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1303.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1304' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1304.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1305' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1305.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1306' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:869][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1306.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.22:870][326]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1307' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.22:870][326]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1307.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.26:147][704]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1308' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.26:147][704]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1308.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.26:147][704]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1309' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.26:147][704]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1309.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.26:148][704]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1310' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.26:148][704]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1310.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.26:148][704]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1311' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.26:148][704]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1311.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.26:148][704]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1312' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.26:148][704]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1312.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:519][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1285' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:519][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1285.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:520][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1287' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:520][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1287.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:520][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1288' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:520][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1288.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:520][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1289' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:520][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1289.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:521][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1291' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:521][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1291.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:521][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1292' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:521][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1292.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:522][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1293' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:522][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1293.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:522][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1294' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1294.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1295' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1295.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1296' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1296.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1297' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1297.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1298' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:523][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1298.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:524][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1299' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:524][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1299.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:524][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1300' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:524][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1300.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:525][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1301' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:525][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1301.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:525][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1302' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:525][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1302.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:525][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1303' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:525][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1303.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:526][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1304' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:526][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1304.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:526][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1305' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:526][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1305.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1306' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1306.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1307' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1307.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1308' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1308.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1309' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1309.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1310' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:527][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1310.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:528][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1311' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:528][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1311.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.28:528][981]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1312' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.28:528][981]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1312.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.29:146][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1308' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.29:147][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1308.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.29:147][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1309' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.29:147][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1309.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.29:147][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1310' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.29:147][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1310.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.29:147][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1311' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.29:147][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1311.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.29:148][ 52]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1312' invalid (944 verts, 0 indices).
+[2021.02.25-13.37.29:148][ 52]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1312.BodySetup_0 when we are unable to.
+[2021.02.25-13.37.31:749][354]Cmd: SELECT NONE
+[2021.02.25-13.37.32:894][470]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.02.25-13.37.32:931][470]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime47091EC04A531FD527DA7BA1B1A8439C.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap'
+[2021.02.25-13.37.33:214][470]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_BuiltData7E9CC4C642EF231F331E8CB305D98BEF.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime_BuiltData.uasset'
+[2021.02.25-13.37.33:225][470]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.25-13.37.33:225][470]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/DavisSlime.DavisSlime
+[2021.02.25-13.37.33:225][470]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/DavisSlime_BuiltData.DavisSlime_BuiltData
+[2021.02.25-13.42.10:485][727]Cmd: TRANSACTION UNDO
+[2021.02.25-13.42.10:485][727]LogEditorTransaction: Undo Edit Hollow
+[2021.02.25-13.42.11:028][742]Cmd: TRANSACTION UNDO
+[2021.02.25-13.42.11:028][742]LogEditorTransaction: Undo Edit Hollow
+[2021.02.25-13.42.13:693][ 18]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1351' invalid (100 verts, 0 indices).
+[2021.02.25-13.42.13:693][ 18]LogPhysics: Warning: Attempt to build physics data for /Game/TopDownBP/Maps/DavisSlime.DavisSlime:PersistentLevel.ModelComponent_1351.BodySetup_0 when we are unable to.
+[2021.02.25-13.42.14:411][ 98]Cmd: TRANSACTION UNDO
+[2021.02.25-13.42.14:411][ 98]LogEditorTransaction: Undo Edit Tessellated
+[2021.02.25-13.42.20:323][733]Cmd: SELECT NONE
+[2021.02.25-13.42.23:379][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.02.25-13.42.23:418][ 91]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime1A1BFE1A4ED6D1EC991550A9B47C1D72.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap'
+[2021.02.25-13.42.23:690][ 91]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_BuiltData20185D784B1284411C13969A8489027C.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime_BuiltData.uasset'
+[2021.02.25-13.42.23:701][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.25-13.42.23:701][ 91]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/DavisSlime.DavisSlime
+[2021.02.25-13.42.23:701][ 91]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/DavisSlime_BuiltData.DavisSlime_BuiltData
+[2021.02.25-13.42.35:100][458]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2021.02.25-13.42.41:503][953]Cmd: SELECT NONE
+[2021.02.25-13.44.56:686][481]LogActorFactory: Actor Factory created Cube
+[2021.02.25-13.44.57:515][573]LogActorFactory: Actor Factory created Cube
+[2021.02.25-13.45.21:394][ 30]Cmd: SELECT NONE
+[2021.02.25-13.45.21:886][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.02.25-13.45.40:191][857]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2021.02.25-13.45.40:536][885]Cmd: DELETE
+[2021.02.25-13.45.40:536][885]Cmd: ACTOR DELETE
+[2021.02.25-13.45.40:541][885]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.25-13.45.40:559][885]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.02.25-13.45.40:568][885]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2021.02.25-13.45.40:857][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2021.02.25-13.45.41:054][935]Cmd: DELETE
+[2021.02.25-13.45.41:054][935]Cmd: ACTOR DELETE
+[2021.02.25-13.45.41:059][935]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.25-13.45.41:074][935]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.02.25-13.45.41:075][935]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2021.02.25-13.45.41:388][971]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2021.02.25-13.45.41:447][972]Cmd: DELETE
+[2021.02.25-13.45.41:447][972]Cmd: ACTOR DELETE
+[2021.02.25-13.45.41:451][972]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.25-13.45.41:467][972]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.02.25-13.45.41:467][972]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.02.25-13.45.43:949][259]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.02.25-13.45.43:982][259]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime258AFA9C4F3F98AB476A35875529ADEF.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap'
+[2021.02.25-13.45.44:262][259]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_BuiltData9C7679C644A0A275DD658188519C9111.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime_BuiltData.uasset'
+[2021.02.25-13.45.44:272][259]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.25-13.45.44:272][259]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/DavisSlime.DavisSlime
+[2021.02.25-13.45.44:273][259]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/DavisSlime_BuiltData.DavisSlime_BuiltData
+[2021.02.25-13.46.58:584][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.02.25-13.46.58:619][842]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime988BAF484FE79EF9CE84559E7883916D.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap'
+[2021.02.25-13.46.58:897][842]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_BuiltData9447EE1345EB92A9A6C4FCB29019B89C.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime_BuiltData.uasset'
+[2021.02.25-13.46.58:911][842]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.25-13.46.58:912][842]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/DavisSlime.DavisSlime
+[2021.02.25-13.46.58:912][842]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/DavisSlime_BuiltData.DavisSlime_BuiltData
+[2021.02.25-13.47.49:132][663]LogActorFactory: Actor Factory created Cube
+[2021.02.25-13.47.49:733][732]LogActorFactory: Actor Factory created Cube
+[2021.02.25-13.47.54:736][250]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.47.54:750][250]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.47.54:750][250]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:47:54 AM)
+[2021.02.25-13.47.54:750][250]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.47.54:764][250]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013233s)
+[2021.02.25-13.47.54:765][250]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.47.54:765][250]LogPlayLevel: PIE: World Init took: (0.001262s)
+[2021.02.25-13.47.54:765][250]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.014652s)
+[2021.02.25-13.47.54:782][250]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.02.25-13.47.54:784][250]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.47.54:785][250]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.47.54:785][250]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.47.54:785][250]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.47.54:787][250]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.47.54:787][250]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.47.54:803][250]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.47.54:803][250]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.47.54:803][250]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.47.54:803][250]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.47.54:804][250]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.47.54:804][250]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.47.54:804][250]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.47.54:827][250]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.47.54:827][250]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.47.54:827][250]LogInit: FAudioDevice initialized.
+[2021.02.25-13.47.54:827][250]LogAudio: Display: Audio Device (ID: 6) registered with world 'DavisSlime'.
+[2021.02.25-13.47.54:837][250]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.47.54:839][250]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.47.54
+[2021.02.25-13.47.54:840][250]LogWorld: Bringing up level for play took: 0.001666
+[2021.02.25-13.47.54:840][250]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.02.25-13.47.54:843][250]PIE: Server logged in
+[2021.02.25-13.47.54:844][250]PIE: Play in editor total start time 0.095 seconds.
+[2021.02.25-13.47.58:240][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.47.58:240][645]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.47.58:240][645]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.47.58:240][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.47.58:247][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.47.58:267][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.47.58:282][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.47.58:282][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.47.58:283][645]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.47.58:309][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.02.25-13.47.58:357][646]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.02.25-13.48.13:751][668]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.48.13:764][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.48.13:764][668]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:48:13 AM)
+[2021.02.25-13.48.13:764][668]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.13:775][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010944s)
+[2021.02.25-13.48.13:776][668]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.48.13:776][668]LogPlayLevel: PIE: World Init took: (0.001039s)
+[2021.02.25-13.48.13:776][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.012122s)
+[2021.02.25-13.48.13:794][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.02.25-13.48.13:798][668]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.48.13:798][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.48.13:798][668]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.48.13:798][668]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.48.13:800][668]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.48.13:800][668]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.48.13:812][668]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.48.13:812][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.48.13:812][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.48.13:812][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.48.13:813][668]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.48.13:813][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.48.13:813][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.48.13:836][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.48.13:836][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.48.13:836][668]LogInit: FAudioDevice initialized.
+[2021.02.25-13.48.13:836][668]LogAudio: Display: Audio Device (ID: 7) registered with world 'DavisSlime'.
+[2021.02.25-13.48.13:845][668]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.48.13:847][668]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.48.13
+[2021.02.25-13.48.13:847][668]LogWorld: Bringing up level for play took: 0.001679
+[2021.02.25-13.48.13:847][668]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2021.02.25-13.48.13:850][668]PIE: Server logged in
+[2021.02.25-13.48.13:851][668]PIE: Play in editor total start time 0.088 seconds.
+[2021.02.25-13.48.19:511][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.19:511][336]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.19:511][336]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.48.19:511][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.19:518][336]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.48.19:538][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.19:553][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.19:554][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.19:555][336]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.19:579][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.02.25-13.48.19:625][337]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2021.02.25-13.48.27:611][229]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.48.27:625][229]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.48.27:625][229]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:48:27 AM)
+[2021.02.25-13.48.27:625][229]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.27:636][229]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011256s)
+[2021.02.25-13.48.27:637][229]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.48.27:637][229]LogPlayLevel: PIE: World Init took: (0.001058s)
+[2021.02.25-13.48.27:637][229]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.012453s)
+[2021.02.25-13.48.27:655][229]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2021.02.25-13.48.27:658][229]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.48.27:658][229]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.48.27:658][229]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.48.27:658][229]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.48.27:660][229]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.48.27:660][229]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.48.27:671][229]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.48.27:672][229]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.48.27:672][229]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.48.27:672][229]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.48.27:672][229]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.48.27:672][229]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.48.27:672][229]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.48.27:692][229]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.48.27:692][229]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.48.27:692][229]LogInit: FAudioDevice initialized.
+[2021.02.25-13.48.27:692][229]LogAudio: Display: Audio Device (ID: 8) registered with world 'DavisSlime'.
+[2021.02.25-13.48.27:704][229]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.48.27:706][229]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.48.27
+[2021.02.25-13.48.27:706][229]LogWorld: Bringing up level for play took: 0.001469
+[2021.02.25-13.48.27:706][229]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2021.02.25-13.48.27:710][229]PIE: Server logged in
+[2021.02.25-13.48.27:711][229]PIE: Play in editor total start time 0.087 seconds.
+[2021.02.25-13.48.35:591][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.35:591][165]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.35:591][165]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.48.35:591][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.35:598][165]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.48.35:620][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.35:636][165]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.35:636][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.35:637][165]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.35:661][165]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.02.25-13.48.35:708][166]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2021.02.25-13.48.40:413][674]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.48.40:428][674]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.48.40:428][674]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:48:40 AM)
+[2021.02.25-13.48.40:429][674]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.40:442][674]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013433s)
+[2021.02.25-13.48.40:443][674]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.48.40:443][674]LogPlayLevel: PIE: World Init took: (0.001055s)
+[2021.02.25-13.48.40:443][674]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.014631s)
+[2021.02.25-13.48.40:461][674]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.02.25-13.48.40:462][674]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.48.40:463][674]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.48.40:463][674]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.48.40:463][674]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.48.40:465][674]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.48.40:465][674]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.48.40:477][674]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.48.40:478][674]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.48.40:478][674]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.48.40:478][674]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.48.40:478][674]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.48.40:478][674]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.48.40:478][674]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.48.40:498][674]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.48.40:498][674]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.48.40:498][674]LogInit: FAudioDevice initialized.
+[2021.02.25-13.48.40:498][674]LogAudio: Display: Audio Device (ID: 9) registered with world 'DavisSlime'.
+[2021.02.25-13.48.40:508][674]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.48.40:510][674]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.48.40
+[2021.02.25-13.48.40:510][674]LogWorld: Bringing up level for play took: 0.001668
+[2021.02.25-13.48.40:511][674]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.02.25-13.48.40:514][674]PIE: Server logged in
+[2021.02.25-13.48.40:515][674]PIE: Play in editor total start time 0.087 seconds.
+[2021.02.25-13.48.45:700][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.45:700][288]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.45:701][288]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.48.45:701][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.45:712][288]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.48.45:731][288]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.45:746][288]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.45:747][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.45:748][288]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.45:771][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.02.25-13.48.45:817][289]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.02.25-13.48.54:155][228]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.48.54:170][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.48.54:170][228]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:48:54 AM)
+[2021.02.25-13.48.54:171][228]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.54:182][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011174s)
+[2021.02.25-13.48.54:183][228]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.48.54:183][228]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2021.02.25-13.48.54:183][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.012579s)
+[2021.02.25-13.48.54:201][228]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.02.25-13.48.54:204][228]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.02.25-13.48.54:204][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.48.54:204][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.48.54:204][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.48.54:204][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.48.54:204][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.48.54:204][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.48.54:204][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.48.54:204][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.48.54:205][228]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.48.54:205][228]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.48.54:207][228]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.48.54:207][228]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.48.54:219][228]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.48.54:219][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.48.54:219][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.48.54:219][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.48.54:220][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.48.54:220][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.48.54:220][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.48.54:238][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.48.54:239][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.48.54:239][228]LogInit: FAudioDevice initialized.
+[2021.02.25-13.48.54:239][228]LogAudio: Display: Audio Device (ID: 10) registered with world 'DavisSlime'.
+[2021.02.25-13.48.54:251][228]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.48.54:253][228]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.48.54
+[2021.02.25-13.48.54:253][228]LogWorld: Bringing up level for play took: 0.001463
+[2021.02.25-13.48.54:254][228]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2021.02.25-13.48.54:257][228]PIE: Server logged in
+[2021.02.25-13.48.54:258][228]PIE: Play in editor total start time 0.088 seconds.
+[2021.02.25-13.48.58:631][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.58:631][744]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.48.58:631][744]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.48.58:631][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.58:644][744]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.48.58:667][744]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.48.58:683][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.48.58:684][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.58:685][744]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.48.58:707][744]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.02.25-13.48.58:756][745]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2021.02.25-13.49.01:884][ 95]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.49.01:899][ 95]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.49.01:899][ 95]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:49:01 AM)
+[2021.02.25-13.49.01:899][ 95]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.01:911][ 95]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010741s)
+[2021.02.25-13.49.01:911][ 95]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.49.01:911][ 95]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2021.02.25-13.49.01:911][ 95]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.012159s)
+[2021.02.25-13.49.01:929][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.02.25-13.49.01:930][ 95]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.02.25-13.49.01:930][ 95]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.49.01:930][ 95]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.49.01:930][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.49.01:930][ 95]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.49.01:930][ 95]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.49.01:930][ 95]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.49.01:931][ 95]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.49.01:931][ 95]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.49.01:931][ 95]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.49.01:931][ 95]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.49.01:933][ 95]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.49.01:933][ 95]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.49.01:943][ 95]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.49.01:944][ 95]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.49.01:944][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.49.01:944][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.49.01:944][ 95]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.49.01:944][ 95]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.49.01:944][ 95]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.49.01:964][ 95]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.49.01:964][ 95]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.49.01:964][ 95]LogInit: FAudioDevice initialized.
+[2021.02.25-13.49.01:964][ 95]LogAudio: Display: Audio Device (ID: 11) registered with world 'DavisSlime'.
+[2021.02.25-13.49.01:978][ 95]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.49.01:980][ 95]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.49.01
+[2021.02.25-13.49.01:981][ 95]LogWorld: Bringing up level for play took: 0.001892
+[2021.02.25-13.49.01:981][ 95]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.02.25-13.49.01:984][ 95]PIE: Server logged in
+[2021.02.25-13.49.01:985][ 95]PIE: Play in editor total start time 0.086 seconds.
+[2021.02.25-13.49.09:791][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.09:791][ 18]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.09:791][ 18]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.49.09:791][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.09:801][ 18]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.49.09:820][ 18]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.09:836][ 18]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.09:836][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.09:837][ 18]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.09:860][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.02.25-13.49.09:906][ 19]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.02.25-13.49.11:266][170]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.25-13.49.20:078][139]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.49.20:092][139]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.49.20:092][139]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:49:20 AM)
+[2021.02.25-13.49.20:092][139]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.20:104][139]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011878s)
+[2021.02.25-13.49.20:105][139]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.49.20:106][139]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2021.02.25-13.49.20:106][139]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.013276s)
+[2021.02.25-13.49.20:122][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.02.25-13.49.20:125][139]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.49.20:126][139]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.49.20:126][139]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.49.20:126][139]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.49.20:128][139]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.49.20:128][139]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.49.20:139][139]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.49.20:139][139]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.49.20:139][139]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.49.20:140][139]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.49.20:140][139]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.49.20:140][139]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.49.20:140][139]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.49.20:161][139]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.49.20:162][139]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.49.20:162][139]LogInit: FAudioDevice initialized.
+[2021.02.25-13.49.20:162][139]LogAudio: Display: Audio Device (ID: 12) registered with world 'DavisSlime'.
+[2021.02.25-13.49.20:171][139]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.49.20:173][139]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.49.20
+[2021.02.25-13.49.20:174][139]LogWorld: Bringing up level for play took: 0.001685
+[2021.02.25-13.49.20:174][139]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.02.25-13.49.20:177][139]PIE: Server logged in
+[2021.02.25-13.49.20:178][139]PIE: Play in editor total start time 0.087 seconds.
+[2021.02.25-13.49.23:300][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.23:300][504]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.23:301][504]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.49.23:301][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.23:310][504]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.49.23:328][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.23:344][504]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.23:344][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.23:345][504]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.23:371][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.02.25-13.49.23:417][505]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.02.25-13.49.26:284][805]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.49.26:299][805]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.49.26:300][805]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:49:26 AM)
+[2021.02.25-13.49.26:300][805]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.26:312][805]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012387s)
+[2021.02.25-13.49.26:313][805]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.49.26:313][805]LogPlayLevel: PIE: World Init took: (0.001203s)
+[2021.02.25-13.49.26:313][805]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.013750s)
+[2021.02.25-13.49.26:331][805]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.02.25-13.49.26:332][805]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.49.26:333][805]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.49.26:333][805]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.49.26:333][805]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.49.26:335][805]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.49.26:335][805]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.49.26:346][805]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.49.26:346][805]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.49.26:346][805]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.49.26:346][805]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.49.26:346][805]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.49.26:347][805]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.49.26:347][805]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.49.26:367][805]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.49.26:367][805]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.49.26:367][805]LogInit: FAudioDevice initialized.
+[2021.02.25-13.49.26:367][805]LogAudio: Display: Audio Device (ID: 13) registered with world 'DavisSlime'.
+[2021.02.25-13.49.26:381][805]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.49.26:384][805]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.49.26
+[2021.02.25-13.49.26:384][805]LogWorld: Bringing up level for play took: 0.002641
+[2021.02.25-13.49.26:385][805]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.02.25-13.49.26:388][805]PIE: Server logged in
+[2021.02.25-13.49.26:389][805]PIE: Play in editor total start time 0.09 seconds.
+[2021.02.25-13.49.33:660][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.33:660][665]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.33:660][665]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.49.33:661][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.33:673][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.49.33:693][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.33:708][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.33:709][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.33:710][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.33:735][665]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.02.25-13.49.33:778][666]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.02.25-13.49.38:097][133]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.25-13.49.38:111][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.25-13.49.38:112][133]PIE: New page: PIE session: DavisSlime (Feb 25, 2021, 3:49:38 AM)
+[2021.02.25-13.49.38:112][133]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.38:124][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011933s)
+[2021.02.25-13.49.38:125][133]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.25-13.49.38:125][133]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2021.02.25-13.49.38:125][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/DavisSlime.DavisSlime to /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime (0.013275s)
+[2021.02.25-13.49.38:142][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.02.25-13.49.38:144][133]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.25-13.49.38:144][133]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.25-13.49.38:144][133]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.25-13.49.38:144][133]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.25-13.49.38:146][133]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.25-13.49.38:146][133]LogAudioMixer: Display: 1: FrontRight
+[2021.02.25-13.49.38:158][133]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.25-13.49.38:158][133]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.25-13.49.38:158][133]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.25-13.49.38:158][133]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.25-13.49.38:158][133]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.25-13.49.38:159][133]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.25-13.49.38:159][133]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.25-13.49.38:182][133]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.25-13.49.38:182][133]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.25-13.49.38:182][133]LogInit: FAudioDevice initialized.
+[2021.02.25-13.49.38:182][133]LogAudio: Display: Audio Device (ID: 14) registered with world 'DavisSlime'.
+[2021.02.25-13.49.38:194][133]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.25-13.49.38:196][133]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime.DavisSlime up for play (max tick rate 0) at 2021.02.25-08.49.38
+[2021.02.25-13.49.38:196][133]LogWorld: Bringing up level for play took: 0.001421
+[2021.02.25-13.49.38:196][133]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.02.25-13.49.38:199][133]PIE: Server logged in
+[2021.02.25-13.49.38:201][133]PIE: Play in editor total start time 0.09 seconds.
+[2021.02.25-13.49.55:811][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.55:811][226]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_DavisSlime
+[2021.02.25-13.49.55:811][226]LogWorld: UWorld::CleanupWorld for DavisSlime, bSessionEnded=true, bCleanupResources=true
+[2021.02.25-13.49.55:812][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.55:824][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.25-13.49.55:843][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.25-13.49.55:858][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.25-13.49.55:858][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.55:859][226]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.25-13.49.55:883][226]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.02.25-13.49.55:931][227]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.02.25-13.49.59:244][460]Cmd: DELETE
+[2021.02.25-13.49.59:244][460]Cmd: ACTOR DELETE
+[2021.02.25-13.49.59:248][460]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.02.25-13.49.59:266][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.02.25-13.49.59:268][460]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.02.25-13.50.01:172][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.25-13.50.01:205][683]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime4307F9BC47BDEB7BFDF0F098B14A778F.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap'
+[2021.02.25-13.50.01:484][683]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_BuiltDataB6ABA46F4052B7FEA0E416A8FDBB819B.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime_BuiltData.uasset'
+[2021.02.25-13.50.01:494][683]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.25-13.50.01:494][683]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/DavisSlime.DavisSlime
+[2021.02.25-13.50.01:494][683]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/DavisSlime_BuiltData.DavisSlime_BuiltData
+[2021.02.25-13.50.02:970][841]Cmd: SELECT NONE

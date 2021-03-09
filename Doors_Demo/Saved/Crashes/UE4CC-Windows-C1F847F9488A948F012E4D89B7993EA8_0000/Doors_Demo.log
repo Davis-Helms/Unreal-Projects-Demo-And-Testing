@@ -1,0 +1,1280 @@
+﻿Log file open, 02/27/21 12:38:22
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: Doors_Demo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 3.027594
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cleaning working directory: C:/Users/helms/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15228867
+LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.02.27-17.38.26:214][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.02.27-17.38.26:214][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+[2021.02.27-17.38.26:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.02.27-17.38.26:219][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+[2021.02.27-17.38.26:219][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+[2021.02.27-17.38.26:270][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.27-17.38.26:270][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.27-17.38.26:271][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.27-17.38.26:281][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.27-17.38.26:290][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.02.27-17.38.26:299][  0]LogHAL: Display: Platform has ~ 15 GB [16031539200 / 17179869184 / 15], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.02.27-17.38.26:299][  0]LogInit: Going up to parent DeviceProfile []
+[2021.02.27-17.38.26:299][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.02.27-17.38.26:299][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.02.27-17.38.26:300][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Scalability.ini]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.02.27-17.38.26:301][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.02.27-17.38.26:321][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.02.27-17.38.26:321][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.02.27-17.38.26:321][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.02.27-17.38.26:321][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Config/Windows/Engine.ini]
+[2021.02.27-17.38.26:339][  0]LogInit: Computer: BLUE-TOWER
+[2021.02.27-17.38.26:339][  0]LogInit: User: helms
+[2021.02.27-17.38.26:339][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.02.27-17.38.26:339][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.02.27-17.38.26:339][  0]LogMemory: Memory total: Physical=14.9GB (15GB approx)
+[2021.02.27-17.38.26:339][  0]LogMemory: Platform Memory Stats for Windows
+[2021.02.27-17.38.26:339][  0]LogMemory: Process Physical Memory: 136.89 MB used, 136.89 MB peak
+[2021.02.27-17.38.26:339][  0]LogMemory: Process Virtual Memory: 119.84 MB used, 119.84 MB peak
+[2021.02.27-17.38.26:339][  0]LogMemory: Physical Memory: 3777.96 MB used,  11510.91 MB free, 15288.87 MB total
+[2021.02.27-17.38.26:339][  0]LogMemory: Virtual Memory: 134206352.00 MB used,  11379.25 MB free, 134217728.00 MB total
+[2021.02.27-17.38.26:354][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.02.27-17.38.27:093][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.02.27-17.38.27:113][  0]LogInit: Using OS detected language (en-US).
+[2021.02.27-17.38.27:113][  0]LogInit: Using OS detected locale (en-US).
+[2021.02.27-17.38.27:117][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.02.27-17.38.27:723][  0]LogInit: Setting process to per monitor DPI aware
+[2021.02.27-17.38.27:809][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.02.27-17.38.28:018][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.02.27-17.38.28:018][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.02.27-17.38.32:297][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.27-17.38.32:297][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.02.27-17.38.32:298][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.02.27-17.38.32:298][  0]LogD3D11RHI: D3D11 adapters:
+[2021.02.27-17.38.32:411][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.02.27-17.38.32:411][  0]LogD3D11RHI:       4018/0/7644 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.02.27-17.38.32:414][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.02.27-17.38.32:414][  0]LogD3D11RHI:       0/0/7644 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.02.27-17.38.32:414][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.02.27-17.38.32:420][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.02.27-17.38.32:420][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.02.27-17.38.32:420][  0]LogWindows: EnumDisplayDevices:
+[2021.02.27-17.38.32:420][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2021.02.27-17.38.32:421][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.02.27-17.38.32:421][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.02.27-17.38.32:421][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.02.27-17.38.32:421][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.02.27-17.38.32:421][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.02.27-17.38.32:421][  0]LogD3D11RHI:   Driver Version: 461.72 (internal:27.21.14.6172, unified:461.72)
+[2021.02.27-17.38.32:421][  0]LogD3D11RHI:      Driver Date: 2-23-2021
+[2021.02.27-17.38.32:421][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.02.27-17.38.32:520][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.02.27-17.38.32:520][  0]LogD3D11RHI: Async texture creation enabled
+[2021.02.27-17.38.32:520][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.02.27-17.38.32:834][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.02.27-17.38.32:842][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.02.27-17.38.33:626][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.02.27-17.38.33:705][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.02.27-17.38.33:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.02.27-17.38.33:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.02.27-17.38.33:882][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.02.27-17.38.33:920][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.02.27-17.38.33:965][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.02.27-17.38.34:002][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.02.27-17.38.34:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.02.27-17.38.34:090][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.02.27-17.38.34:120][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.02.27-17.38.34:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.02.27-17.38.34:181][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.02.27-17.38.34:220][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.02.27-17.38.34:281][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.02.27-17.38.34:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.02.27-17.38.34:361][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.02.27-17.38.34:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.02.27-17.38.34:400][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.02.27-17.38.34:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.02.27-17.38.34:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.02.27-17.38.34:513][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.02.27-17.38.34:541][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.02.27-17.38.34:541][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.02.27-17.38.34:693][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.02.27-17.38.35:820][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.02.27-17.38.35:833][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Intermediate/Shaders/WorkingDirectory/8260/).
+[2021.02.27-17.38.35:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/helms/AppData/Local/Temp/UnrealShaderWorkingDir/2E052D364BF05860D4DC3BBB0C064146/'.
+[2021.02.27-17.38.35:837][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.02.27-17.38.35:837][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.02.27-17.38.40:883][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.02.27-17.38.41:098][  0]LogDerivedDataCache: Loaded boot cache 0.21s 77MB C:/Users/helms/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.27-17.38.41:098][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/helms/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.02.27-17.38.41:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.02.27-17.38.41:098][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.02.27-17.38.41:098][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.27-17.38.41:098][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.02.27-17.38.41:151][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.02.27-17.38.41:151][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.02.27-17.38.41:151][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.02.27-17.38.41:178][  0]LogDerivedDataCache: Speed tests for C:/Users/helms/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.03 seconds
+[2021.02.27-17.38.41:179][  0]LogDerivedDataCache: Display: Performance to C:/Users/helms/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.24ms. RandomReadSpeed=79.13MBs, RandomWriteSpeed=74.35MBs. Assigned SpeedClass 'Local'
+[2021.02.27-17.38.41:179][  0]LogDerivedDataCache: Using Local data cache path C:/Users/helms/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.02.27-17.38.41:179][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.02.27-17.38.41:179][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.02.27-17.38.41:316][  0]LogSlate: Using FreeType 2.10.0
+[2021.02.27-17.38.41:418][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.02.27-17.38.41:959][  0]LogAssetRegistry: FAssetRegistry took 0.0146 seconds to start up
+[2021.02.27-17.38.43:793][  0]LogInit: Selected Device Profile: [Windows]
+[2021.02.27-17.38.43:794][  0]LogInit: Active device profile: [000001CEA4CBEC00][000001CEA3D0A440 49] Windows
+[2021.02.27-17.38.43:794][  0]LogInit: Profiles: [000001CEA4CBEC00][000001CEA3D0A440 49] Windows, [000001CEA4C81600][000001CEA3D125C0 49] WindowsNoEditor, [000001CEA4CBD500][000001CEA3D16740 49] WindowsServer, [000001CEA4C82700][000001CEA3D1A8C0 49] WindowsClient, [000001CEA4CBED00][000001CEA3D1EA40 49] IOS, [000001CEA4C81300][000001CEA3D22BC0 49] iPadAir, [000001CEA4CBD300][000001CEA3D26D40 49] iPadAir2, [000001CEA4C40200][000001CEA3D2F000 49] IPadPro, [000001CEA4C2FF00][000001CEA3D2B040 49] iPadAir3, [000001CEA4CBF100][000001CEA3D331C0 49] iPadAir4, [000001CEA4C2DB00][000001CEA3D37340 49] iPadMini2, [000001CEA4CBCF00][000001CEA3D3B4C0 49] iPadMini3, [000001CEA4C2F900][000001CEA3D3F640 49] iPadMini4, [000001CEA4CBF200][000001CEA3D0F780 49] iPadMini5, [000001CEA4C82900][000001CEA3D479C0 49] iPhone6, [000001CEA4C82A00][000001CEA3D43A00 49] iPodTouch6, [000001CEA4C2D900][000001CEA4D65CC0 49] iPhone7, [000001CEA4C2D800][000001CEA4D61D00 49] iPodTouch7, [000001CEA4C83E00][000001CEA4D681C0 49] iPhone5S, [000001CEA4C2E200][000001CEA4D6C340 49] iPhone6Plus, [000001CEA4C81800][000001CEA4D704C0 49] iPhone6S, [000001CEA4C2C200][000001CEA4D74640 49] iPhone6SPlus, [000001CEA4C80F00][000001CEA4D787C0 49] iPhone7Plus, [000001CEA4C2D700][000001CEA4D7C940 49] iPhoneSE, [000001CEA4C81200][000001CEA4D80AC0 49] iPhone8, [000001CEA4C2DF00][000001CEA4D84C40 49] iPhone8Plus, [000001CEA4C82E00][000001CEA4D88DC0 49] iPhoneX, [000001CEA4C2FC00][000001CEA4D8CF40 49] iPhoneXS, [000001CEA4C82300][000001CEA4D910C0 49] iPhoneXSMax, [000001CEA4C2E000][000001CEA4D95240 49] iPhoneXR, [000001CEA4C80B00][000001CEA4D993C0 49] iPhone11, [000001CEA4C2C300][000001CEA4D9D540 49] iPhone11Pro, [000001CEA4C80500][000001CEA4DA16C0 49] iPhone11ProMax, [000001CEA4C2F500][000001CEA3D4B800 49] iPhoneSE2, [000001CEA4C83C00][000001CEA4DA5940 49] iPhone12Mini, [000001CEA4C2D000][000001CEA4DA9A80 49] iPhone12, [000001CEA4C81A00][000001CEA4DB1C00 49] iPhone12Pro, [000001CEA4C2E600][000001CEA4DB40C0 49] iPhone12ProMax, [000001CEA4C83600][000001CEA4DB8240 49] iPadPro105, [000001CEA4C2CF00][000001CEA4DBC3C0 49] iPadPro129, [000001CEA4C80400][000001CEA4DC0540 49] iPadPro97, [000001CEA4C2F200][000001CEA4DC46C0 49] iPadPro2_129, [000001CEA4C82500][000001CEA4DC8840 49] iPad5, [000001CEA4C2CA00][000001CEA4DCC9C0 49] iPad6, [000001CEA4C81900][000001CEA4DD0B40 49] iPad7, [000001CEA4C2EB00][000001CEA4DD4CC0 49] iPad8, [000001CEA4C80C00][000001CEA4DD8E40 49] iPadPro11, [000001CEA4C2F400][000001CEA4DDCFC0 49] iPadPro2_11, [000001CEA4C82200][000001CEA4DE1140 49] iPadPro3_129, [000001CEA4C81E00][000001CEA4DE52C0 49] iPadPro4_129, [000001CEA4C41D00][000001CEA4DE9440 49] AppleTV, [000001CEA4C81B00][000001CEA4DED5C0 49] AppleTV4K, [000001CEA4C41200][000001CEA4DF1740 49] TVOS, [000001CEA4C81100][000001CEA4DAD880 49] Mac, [000001CEA4C42400][000001CEA4DF59C0 49] MacClient, [000001CEA4D0C400][000001CEA4DF9B00 49] MacNoEditor, [000001CEA4C43000][000001CEA4DFDC40 49] MacServer, [000001CEA4D0C500][000001CEA4E04100 49] Linux, [000001CEA4C42000][000001CEA4E08280 49] LinuxNoEditor, [000001CEA4C2F600][000001CEA4E0C400 49] LinuxAArch64NoEditor, [000001CEA4C42D00][000001CEA4E10580 49] LinuxClient, [000001CEA4C2C900][000001CEA4E14700 49] LinuxAArch64Client, [000001CEA4C42A00][000001CEA4E18880 49] LinuxServer, [000001CEA4C2ED00][000001CEA4E1CA00 49] LinuxAArch64Server, [000001CEA4C40700][000001CEA4E20B80 49] Android, [000001CEA4C2CC00][000001CEA4E24D00 49] Android_Low, [000001CEA4C40F00][000001CEA4E28E80 49] Android_Mid, [000001CEA4C2D200][000001CEA4E2D000 49] Android_High, [000001CEA4C43800][000001CEA4E31180 49] Android_Default, [000001CEA4C2D500][000001CEA4E35300 49] Android_Adreno4xx, [000001CEA4C40400][000001CEA4E39480 49] Android_Adreno5xx_Low, [000001CEA4C2CD00][000001CEA4E3D600 49] Android_Adreno5xx, [000001CEA4C43200][000001CEA4E41780 49] Android_Adreno6xx, [000001CEA4C2F100][000001CEA4E018C0 49] Android_Adreno6xx_Vulkan, [000001CEA4C42C00][000001CEA4E45A00 49] Android_Mali_T6xx, [000001CEA4C2CE00][000001CEA4E49B40 49] Android_Mali_T7xx, [000001CEA4C41900][000001CEA4E4DC80 49] Android_Mali_T8xx, [000001CEA4C2D300][000001CEA4E54140 49] Android_Mali_G71, [000001CEA4C41600][000001CEA4E582C0 49] Android_Mali_G72, [000001CEA4C2D100][000001CEA4E5C440 49] Android_Mali_G72_Vulkan, [000001CEA4C40500][000001CEA4E605C0 49] Android_Mali_G76, [000001CEA4C2C100][000001CEA4E64740 49] Android_Mali_G76_Vulkan, [000001CEA4C43E00][000001CEA4E688C0 49] Android_Mali_G77, [000001CEA4C2CB00][000001CEA4E6CA40 49] Android_Mali_G77_Vulkan, [000001CEA4C41700][000001CEA4E70BC0 49] Android_Vulkan_SM5, [000001CEA4C2DC00][000001CEA4E74D40 49] Android_PowerVR_G6xxx, [000001CEA4C40E00][000001CEA4E78EC0 49] Android_PowerVR_GT7xxx, [000001CEA4C2E300][000001CEA4E7D040 49] Android_PowerVR_GE8xxx, [000001CEA4C43500][000001CEA4E811C0 49] Android_PowerVR_GM9xxx, [000001CEA4C2DE00][000001CEA4E85340 49] Android_PowerVR_GM9xxx_Vulkan, [000001CEA4C42E00][000001CEA4E894C0 49] Android_TegraK1, [000001CEA4C2C600][000001CEA4E8D640 49] Android_Unknown_Vulkan, [000001CEA4C41800][000001CEA4E917C0 49] Lumin, [000001CEA4C83100][000001CEA4E95940 49] Lumin_Desktop, [000001CEA4CBCE00][000001CEA4E51A80 49] HoloLens, 
+[2021.02.27-17.38.45:031][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.02.27-17.38.45:031][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.02.27-17.38.45:031][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.02.27-17.38.45:031][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.02.27-17.38.45:032][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.02.27-17.38.45:383][  0]LogNetVersion: Doors_Demo 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 1083566645)
+[2021.02.27-17.38.53:636][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.02.27-17.38.53:795][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.120758 seconds
+[2021.02.27-17.38.53:818][  0]LogUObjectArray: 16830 objects as part of root set at end of initial load.
+[2021.02.27-17.38.53:818][  0]LogUObjectAllocator: 4209472 out of 0 bytes used by permanent object pool.
+[2021.02.27-17.38.53:818][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.02.27-17.38.57:729][  0]LogPython: Using Python 3.7.7
+[2021.02.27-17.39.00:359][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.02.27-17.39.00:416][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.02.27-17.39.01:469][  0]SourceControl: Source control is disabled
+[2021.02.27-17.39.01:469][  0]SourceControl: Source control is disabled
+[2021.02.27-17.39.01:514][  0]SourceControl: Source control is disabled
+[2021.02.27-17.39.01:565][  0]SourceControl: Source control is disabled
+[2021.02.27-17.39.01:688][  0]SourceControl: Source control is disabled
+[2021.02.27-17.39.01:743][  0]LogUProjectInfo: Found projects:
+[2021.02.27-17.39.01:746][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.27-17.39.01:747][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.27-17.39.04:358][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.02.27-17.39.04:573][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.27-17.39.04:574][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.02.27-17.39.05:308][  0]LogCollectionManager: Loaded 0 collections in 0.001419 seconds
+[2021.02.27-17.39.05:547][  0]LogFileCache: Scanning file cache for directory 'D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/Collections/' took 0.01s
+[2021.02.27-17.39.05:547][  0]LogFileCache: Scanning file cache for directory 'D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Developers/helms/Collections/' took 0.00s
+[2021.02.27-17.39.05:547][  0]LogFileCache: Scanning file cache for directory 'D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Collections/' took 0.00s
+[2021.02.27-17.39.05:547][  0]LogOcInput: OculusInput pre-init called
+[2021.02.27-17.39.05:630][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.02.27-17.39.05:630][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.02.27-17.39.06:479][  0]LogEngine: Initializing Engine...
+[2021.02.27-17.39.06:495][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.02.27-17.39.06:501][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.02.27-17.39.06:578][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2021.02.27-17.39.07:219][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.02.27-17.39.07:514][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.02.27-17.39.07:582][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.02.27-17.39.07:678][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.02.27-17.39.07:678][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.02.27-17.39.07:691][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.27-17.39.07:691][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.27-17.39.07:691][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.27-17.39.07:691][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.27-17.39.07:691][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.27-17.39.07:691][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.27-17.39.07:691][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.27-17.39.07:691][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.27-17.39.07:703][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.27-17.39.07:703][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.27-17.39.07:791][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.27-17.39.07:791][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.02.27-17.39.07:859][  0]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.27-17.39.07:870][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.27-17.39.07:929][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.27-17.39.07:929][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.27-17.39.07:930][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.27-17.39.07:931][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.27-17.39.07:931][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.27-17.39.07:932][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.27-17.39.07:932][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.27-17.39.07:932][  0]LogInit: FAudioDevice initialized.
+[2021.02.27-17.39.07:932][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.02.27-17.39.07:941][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.02.27-17.39.08:070][  0]LogDerivedDataCache: Saved boot cache 0.13s 77MB C:/Users/helms/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.02.27-17.39.08:078][  0]LogInit: Texture streaming: Enabled
+[2021.02.27-17.39.08:224][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.1-15228867+++UE4+Release-4.26
+[2021.02.27-17.39.08:270][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.02.27-17.39.08:270][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.02.27-17.39.08:292][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.02.27-17.39.08:506][  0]LogInit: Transaction tracking system initialized
+[2021.02.27-17.39.08:804][  0]BlueprintLog: New page: Editor Load
+[2021.02.27-17.39.09:920][  0]LocalizationService: Localization service is disabled
+[2021.02.27-17.39.10:299][  0]TimingProfiler: Initialize
+[2021.02.27-17.39.10:300][  0]TimingProfiler: OnSessionChanged
+[2021.02.27-17.39.10:300][  0]LoadingProfiler: Initialize
+[2021.02.27-17.39.10:301][  0]LoadingProfiler: OnSessionChanged
+[2021.02.27-17.39.10:301][  0]NetworkingProfiler: Initialize
+[2021.02.27-17.39.10:301][  0]NetworkingProfiler: OnSessionChanged
+[2021.02.27-17.39.10:301][  0]MemoryProfiler: Initialize
+[2021.02.27-17.39.10:301][  0]MemoryProfiler: OnSessionChanged
+[2021.02.27-17.39.10:874][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.27-17.39.10:875][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.02.27-17.39.12:049][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.02.27-17.39.12:049][  0]LogCook: Display: Mobile HDR setting 1
+[2021.02.27-17.39.13:035][  0]LogFileCache: Scanning file cache for directory 'D:/helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/' took 0.01s
+[2021.02.27-17.39.14:374][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.02.27-17.39.14:444][  0]SourceControl: Source control is disabled
+[2021.02.27-17.39.14:453][  0]LogUnrealEdMisc: Loading editor; pre map load, took 60.070
+[2021.02.27-17.39.14:484][  0]Cmd: MAP LOAD FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.27-17.39.14:509][  0]LightingResults: New page: Lighting Build
+[2021.02.27-17.39.14:592][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.39.14:605][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.39.14:635][  0]MapCheck: New page: Map Check
+[2021.02.27-17.39.14:635][  0]LightingResults: New page: Lighting Build
+[2021.02.27-17.39.14:843][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2021.02.27-17.39.18:361][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'TopDownExampleMap'.
+[2021.02.27-17.39.18:362][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.02.27-17.39.18:788][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.27-17.39.18:836][  0]LogNavigationDataBuild: Display:    Building NavData:  Name Default class /Script/NavigationSystem.RecastNavMesh agent radius 35.0.
+[2021.02.27-17.39.18:858][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.02.27-17.39.18:888][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.27-17.39.18:899][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 10.857ms to complete.
+[2021.02.27-17.39.18:899][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 4.424
+[2021.02.27-17.39.19:441][  0]LogUnrealEdMisc: Total Editor Startup Time, took 65.058
+[2021.02.27-17.39.19:890][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0119 seconds. Added 3623 classes and 868 folders.
+[2021.02.27-17.39.19:929][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.27-17.39.19:984][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.27-17.39.19:984][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.19:984][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.27-17.39.19:984][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.02.27-17.39.19:995][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.27-17.39.19:995][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.19:995][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.27-17.39.19:995][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.02.27-17.39.20:011][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.02.27-17.39.20:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.02.27-17.39.20:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.02.27-17.39.20:024][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.27-17.39.20:024][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:024][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.27-17.39.20:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.02.27-17.39.20:032][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.27-17.39.20:032][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:032][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.27-17.39.20:032][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.02.27-17.39.20:040][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.27-17.39.20:040][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:040][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.27-17.39.20:040][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.02.27-17.39.20:101][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.27-17.39.20:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.27-17.39.20:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.02.27-17.39.20:124][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.27-17.39.20:124][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:124][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.27-17.39.20:124][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.02.27-17.39.20:146][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.27-17.39.20:146][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:146][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.27-17.39.20:146][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.02.27-17.39.20:165][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.02.27-17.39.20:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.02.27-17.39.20:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.02.27-17.39.20:186][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.02.27-17.39.20:186][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:186][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.02.27-17.39.20:186][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2021.02.27-17.39.20:195][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.27-17.39.20:195][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:195][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.27-17.39.20:195][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.02.27-17.39.20:203][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.27-17.39.20:203][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:203][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.27-17.39.20:203][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.02.27-17.39.20:211][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.27-17.39.20:211][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:211][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.27-17.39.20:211][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.02.27-17.39.20:220][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.02.27-17.39.20:220][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:220][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.02.27-17.39.20:220][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.02.27-17.39.20:228][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.27-17.39.20:228][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:228][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.27-17.39.20:228][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.02.27-17.39.20:235][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.02.27-17.39.20:235][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:235][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.02.27-17.39.20:235][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2021.02.27-17.39.20:244][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.27-17.39.20:244][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:244][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.27-17.39.20:244][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.02.27-17.39.20:251][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.27-17.39.20:251][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:251][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.27-17.39.20:251][  0]LogPakFile: OnPakFileMounted2Time == 0.000094
+[2021.02.27-17.39.20:264][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.27-17.39.20:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.27-17.39.20:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2021.02.27-17.39.20:272][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.02.27-17.39.20:272][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:272][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.02.27-17.39.20:272][  0]LogPakFile: OnPakFileMounted2Time == 0.000103
+[2021.02.27-17.39.20:280][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.02.27-17.39.20:280][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:280][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.02.27-17.39.20:280][  0]LogPakFile: OnPakFileMounted2Time == 0.000107
+[2021.02.27-17.39.20:288][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.02.27-17.39.20:288][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:288][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.02.27-17.39.20:288][  0]LogPakFile: OnPakFileMounted2Time == 0.000112
+[2021.02.27-17.39.20:314][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.02.27-17.39.20:314][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:314][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.02.27-17.39.20:314][  0]LogPakFile: OnPakFileMounted2Time == 0.000117
+[2021.02.27-17.39.20:323][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.02.27-17.39.20:323][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:323][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.02.27-17.39.20:323][  0]LogPakFile: OnPakFileMounted2Time == 0.000122
+[2021.02.27-17.39.20:331][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.02.27-17.39.20:331][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.02.27-17.39.20:331][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.02.27-17.39.20:331][  0]LogPakFile: OnPakFileMounted2Time == 0.000126
+[2021.02.27-17.39.20:862][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.27-17.39.21:101][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.27-17.39.21:109][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.27-17.39.21:115][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.27-17.39.21:121][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.27-17.39.21:141][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.02.27-17.39.21:503][  0]LogSlate: Took 0.013005 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.02.27-17.39.21:521][  0]LogSlate: Took 0.015297 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.02.27-17.39.21:536][  0]LogSlate: Took 0.013196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.02.27-17.39.21:635][  0]LogSlate: Took 0.020788 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.27-17.39.21:887][  0]LogRenderer: Reallocating scene render targets to support 1120x924 Format 10 NumSamples 1 (Frame:1).
+[2021.02.27-17.39.22:478][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.02.27-17.39.22:478][  0]LogInput: Warning: Action SetDestination uses invalid key OculusGo_Left_Trigger_Click.
+[2021.02.27-17.39.22:478][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Back_Click.
+[2021.02.27-17.39.22:478][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.02.27-17.39.22:478][  0]LogLoad: (Engine Initialization) Total time: 68.09 seconds
+[2021.02.27-17.39.22:478][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.02.27-17.39.22:484][  0]LogInit: First time updating LLM stats...
+[2021.02.27-17.39.22:668][  0]LogAssetRegistry: Asset discovery search completed in 40.7116 seconds
+[2021.02.27-17.39.22:684][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000008 seconds (updated 0 objects)
+[2021.02.27-17.39.22:823][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.02.27-17.40.58:229][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.02.27-17.40.59:831][ 59]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.27-17.40.59:849][ 59]LogSlate: Took 0.000254 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.02.27-17.40.59:927][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.02.27-17.40.59:940][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.02.27-17.40.59:945][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.27-17.43.30:878][689]LogContentBrowser: Attempting asset rename: MyDoors -> Doors
+[2021.02.27-17.43.30:929][689]LogMetaData: Removing '/Game/Doors/door_button.door_button_C' ref from Metadata '/Game/MyDoors/door_button.PackageMetaData'
+[2021.02.27-17.43.30:929][689]LogMetaData: Removing '/Game/Doors/door_button.SKEL_door_button_C:BndEvt__Trigger Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/door_button.PackageMetaData'
+[2021.02.27-17.43.30:929][689]LogMetaData: Removing '/Game/Doors/door_button.SKEL_door_button_C:BndEvt__Trigger Box_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/door_button.PackageMetaData'
+[2021.02.27-17.43.30:929][689]LogMetaData: Removing '/Game/Doors/door_button.SKEL_door_button_C:UserConstructionScript' ref from Metadata '/Game/MyDoors/door_button.PackageMetaData'
+[2021.02.27-17.43.30:929][689]LogMetaData: Removing '/Game/Doors/door_button.SKEL_door_button_C' ref from Metadata '/Game/MyDoors/door_button.PackageMetaData'
+[2021.02.27-17.43.30:935][689]LogMetaData: Removing '/Game/Doors/door_keycard.door_keycard_C' ref from Metadata '/Game/MyDoors/door_keycard.PackageMetaData'
+[2021.02.27-17.43.30:935][689]LogMetaData: Removing '/Game/Doors/door_keycard.SKEL_door_keycard_C:BndEvt__Trigger Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/door_keycard.PackageMetaData'
+[2021.02.27-17.43.30:935][689]LogMetaData: Removing '/Game/Doors/door_keycard.SKEL_door_keycard_C:BndEvt__Trigger Box_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/door_keycard.PackageMetaData'
+[2021.02.27-17.43.30:935][689]LogMetaData: Removing '/Game/Doors/door_keycard.SKEL_door_keycard_C:UserConstructionScript' ref from Metadata '/Game/MyDoors/door_keycard.PackageMetaData'
+[2021.02.27-17.43.30:935][689]LogMetaData: Removing '/Game/Doors/door_keycard.SKEL_door_keycard_C' ref from Metadata '/Game/MyDoors/door_keycard.PackageMetaData'
+[2021.02.27-17.43.30:937][689]LogMetaData: Removing '/Game/Doors/door_pressure.door_pressure_C' ref from Metadata '/Game/MyDoors/door_pressure.PackageMetaData'
+[2021.02.27-17.43.30:937][689]LogMetaData: Removing '/Game/Doors/door_pressure.SKEL_door_pressure_C:unlock' ref from Metadata '/Game/MyDoors/door_pressure.PackageMetaData'
+[2021.02.27-17.43.30:937][689]LogMetaData: Removing '/Game/Doors/door_pressure.SKEL_door_pressure_C:lock' ref from Metadata '/Game/MyDoors/door_pressure.PackageMetaData'
+[2021.02.27-17.43.30:937][689]LogMetaData: Removing '/Game/Doors/door_pressure.SKEL_door_pressure_C:UserConstructionScript' ref from Metadata '/Game/MyDoors/door_pressure.PackageMetaData'
+[2021.02.27-17.43.30:937][689]LogMetaData: Removing '/Game/Doors/door_pressure.SKEL_door_pressure_C' ref from Metadata '/Game/MyDoors/door_pressure.PackageMetaData'
+[2021.02.27-17.43.30:938][689]LogMetaData: Removing '/Game/Doors/door_proximity.door_proximity_C' ref from Metadata '/Game/MyDoors/door_proximity.PackageMetaData'
+[2021.02.27-17.43.30:938][689]LogMetaData: Removing '/Game/Doors/door_proximity.door_proximity:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyDoors/door_proximity.PackageMetaData'
+[2021.02.27-17.43.30:938][689]LogMetaData: Removing '/Game/Doors/door_proximity.SKEL_door_proximity_C:BndEvt__Trigger Box_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/door_proximity.PackageMetaData'
+[2021.02.27-17.43.30:938][689]LogMetaData: Removing '/Game/Doors/door_proximity.SKEL_door_proximity_C:BndEvt__Trigger Box_K2Node_ComponentBoundEvent_2_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/door_proximity.PackageMetaData'
+[2021.02.27-17.43.30:938][689]LogMetaData: Removing '/Game/Doors/door_proximity.SKEL_door_proximity_C:UserConstructionScript' ref from Metadata '/Game/MyDoors/door_proximity.PackageMetaData'
+[2021.02.27-17.43.30:938][689]LogMetaData: Removing '/Game/Doors/door_proximity.SKEL_door_proximity_C' ref from Metadata '/Game/MyDoors/door_proximity.PackageMetaData'
+[2021.02.27-17.43.30:940][689]LogMetaData: Removing '/Game/Doors/keycard.keycard_C' ref from Metadata '/Game/MyDoors/keycard.PackageMetaData'
+[2021.02.27-17.43.30:940][689]LogMetaData: Removing '/Game/Doors/keycard.keycard:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyDoors/keycard.PackageMetaData'
+[2021.02.27-17.43.30:940][689]LogMetaData: Removing '/Game/Doors/keycard.SKEL_keycard_C:BndEvt__keycard collision_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/keycard.PackageMetaData'
+[2021.02.27-17.43.30:940][689]LogMetaData: Removing '/Game/Doors/keycard.SKEL_keycard_C:UserConstructionScript' ref from Metadata '/Game/MyDoors/keycard.PackageMetaData'
+[2021.02.27-17.43.30:940][689]LogMetaData: Removing '/Game/Doors/keycard.SKEL_keycard_C' ref from Metadata '/Game/MyDoors/keycard.PackageMetaData'
+[2021.02.27-17.43.30:942][689]LogMetaData: Removing '/Game/Doors/pressure_pad.pressure_pad_C' ref from Metadata '/Game/MyDoors/pressure_pad.PackageMetaData'
+[2021.02.27-17.43.30:942][689]LogMetaData: Removing '/Game/Doors/pressure_pad.pressure_pad:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/MyDoors/pressure_pad.PackageMetaData'
+[2021.02.27-17.43.30:942][689]LogMetaData: Removing '/Game/Doors/pressure_pad.SKEL_pressure_pad_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_0_ComponentBeginOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/pressure_pad.PackageMetaData'
+[2021.02.27-17.43.30:942][689]LogMetaData: Removing '/Game/Doors/pressure_pad.SKEL_pressure_pad_C:BndEvt__Sphere_K2Node_ComponentBoundEvent_1_ComponentEndOverlapSignature__DelegateSignature' ref from Metadata '/Game/MyDoors/pressure_pad.PackageMetaData'
+[2021.02.27-17.43.30:942][689]LogMetaData: Removing '/Game/Doors/pressure_pad.SKEL_pressure_pad_C:UserConstructionScript' ref from Metadata '/Game/MyDoors/pressure_pad.PackageMetaData'
+[2021.02.27-17.43.30:942][689]LogMetaData: Removing '/Game/Doors/pressure_pad.SKEL_pressure_pad_C' ref from Metadata '/Game/MyDoors/pressure_pad.PackageMetaData'
+[2021.02.27-17.43.30:990][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_button" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_button.uasset" SILENT=true
+[2021.02.27-17.43.31:050][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_buttonE73691524F752E0423D73A97909B2466.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_button.uasset'
+[2021.02.27-17.43.31:066][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyDoors/door_button" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_button.uasset" SILENT=true
+[2021.02.27-17.43.31:072][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_buttonDCFBB7274143B1C2A5A1CD924BD52360.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_button.uasset'
+[2021.02.27-17.43.31:084][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_keycard" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_keycard.uasset" SILENT=true
+[2021.02.27-17.43.31:110][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_keycardAEA5F03F433762787F01F190B9A7E101.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_keycard.uasset'
+[2021.02.27-17.43.31:120][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyDoors/door_keycard" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_keycard.uasset" SILENT=true
+[2021.02.27-17.43.31:127][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_keycard1B9B9F434193CF8F5A51959A2738381B.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_keycard.uasset'
+[2021.02.27-17.43.31:139][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_pressure" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_pressure.uasset" SILENT=true
+[2021.02.27-17.43.31:162][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_pressure75A853AB4F7B48F4583CB882BD881269.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_pressure.uasset'
+[2021.02.27-17.43.31:165][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyDoors/door_pressure" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_pressure.uasset" SILENT=true
+[2021.02.27-17.43.31:172][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_pressure7C2C60B145E3626302FC17BC02CAAEC4.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_pressure.uasset'
+[2021.02.27-17.43.31:182][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_proximity" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_proximity.uasset" SILENT=true
+[2021.02.27-17.43.31:207][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_proximity14ED341A46A14F0BC85E68A201D0C64F.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_proximity.uasset'
+[2021.02.27-17.43.31:220][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyDoors/door_proximity" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_proximity.uasset" SILENT=true
+[2021.02.27-17.43.31:227][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_proximity65F114B041CDE488E2A45DB1AB397BA2.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/door_proximity.uasset'
+[2021.02.27-17.43.31:238][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/keycard" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/keycard.uasset" SILENT=true
+[2021.02.27-17.43.31:257][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/keycard3C71FFDB482404558E860DB1E62882A0.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/keycard.uasset'
+[2021.02.27-17.43.31:263][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyDoors/keycard" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/keycard.uasset" SILENT=true
+[2021.02.27-17.43.31:269][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/keycardA911778F4CB830BC4E59BB8D3B59315A.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/keycard.uasset'
+[2021.02.27-17.43.31:280][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/pressure_pad" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/pressure_pad.uasset" SILENT=true
+[2021.02.27-17.43.31:303][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/pressure_pad06DD46DA45CBE99647B54CA0E936DFA2.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/pressure_pad.uasset'
+[2021.02.27-17.43.31:309][689]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyDoors/pressure_pad" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/pressure_pad.uasset" SILENT=true
+[2021.02.27-17.43.31:315][689]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/pressure_pad65DAF09C4F2EA9B6FD099DAFD9207220.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/MyDoors/pressure_pad.uasset'
+[2021.02.27-17.43.31:394][689]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-17.43.31:394][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/pressure_pad.pressure_pad
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/pressure_pad.Default__pressure_pad_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/pressure_pad.pressure_pad_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/keycard.keycard
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/keycard.Default__keycard_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/keycard.keycard_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_proximity.door_proximity
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_proximity.Default__door_proximity_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_proximity.door_proximity_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_pressure.door_pressure
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_pressure.Default__door_pressure_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_pressure.door_pressure_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_keycard.door_keycard
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_keycard.Default__door_keycard_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_keycard.door_keycard_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_button.door_button
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_button.Default__door_button_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating ObjectRedirector /Game/MyDoors/door_button.door_button_C
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_button.door_button
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_keycard.door_keycard
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_pressure.door_pressure
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_proximity.door_proximity
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating Blueprint /Game/Doors/keycard.keycard
+[2021.02.27-17.43.31:395][689]LogContentValidation: Display: Validating Blueprint /Game/Doors/pressure_pad.pressure_pad
+[2021.02.27-17.43.49:483][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.02.27-17.43.52:671][560]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.27-17.43.53:442][637]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity2)
+[2021.02.27-17.43.54:052][667]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity2)
+[2021.02.27-17.43.55:020][781]Cmd: SELECT NONE
+[2021.02.27-17.43.56:999][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.02.27-17.43.57:825][  6]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.27-17.43.57:832][  6]LogUObjectGlobals: Force Deleting 18 Package(s):
+	Asset Name: /Game/MyDoors/pressure_pad.pressure_pad
+	Asset Name: /Game/MyDoors/pressure_pad.Default__pressure_pad_C
+	Asset Name: /Game/MyDoors/pressure_pad.pressure_pad_C
+	Asset Name: /Game/MyDoors/keycard.keycard
+	Asset Name: /Game/MyDoors/keycard.Default__keycard_C
+	Asset Name: /Game/MyDoors/keycard.keycard_C
+	Asset Name: /Game/MyDoors/door_proximity.door_proximity
+	Asset Name: /Game/MyDoors/door_proximity.Default__door_proximity_C
+	Asset Name: /Game/MyDoors/door_proximity.door_proximity_C
+	Asset Name: /Game/MyDoors/door_pressure.door_pressure
+[2021.02.27-17.43.59:361][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.02.27-17.44.00:711][161]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity)
+[2021.02.27-17.44.07:650][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.02.27-17.44.08:865][879]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.27-17.44.11:137][148]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.02.27-17.44.12:165][148]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.27-17.44.12:559][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.02.27-17.44.12:888][205]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.27-17.44.12:924][205]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap2F2EB868489C54DA0698EF86E4D6298B.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.02.27-17.44.13:045][205]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap_BuiltDataE11BE42647861A749D9A249D3DBF4464.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.02.27-17.44.13:056][205]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-17.44.13:056][205]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.02.27-17.44.13:056][205]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.02.27-17.44.13:409][245]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity)
+[2021.02.27-17.44.13:745][280]Cmd: DELETE
+[2021.02.27-17.44.13:745][280]Cmd: ACTOR DELETE
+[2021.02.27-17.44.13:762][280]LogEditorActor: Deleted Actor: door_proximity_C
+[2021.02.27-17.44.13:776][280]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.02.27-17.44.13:777][280]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.02.27-17.44.14:376][351]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (small wall1)
+[2021.02.27-17.44.14:914][409]LogEditorViewport: Clicking on Actor (LMB): door_button_C (door_button)
+[2021.02.27-17.44.15:262][446]Cmd: DELETE
+[2021.02.27-17.44.15:262][446]Cmd: ACTOR DELETE
+[2021.02.27-17.44.15:265][446]LogEditorActor: Deleted Actor: door_button_C
+[2021.02.27-17.44.15:271][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.27-17.44.15:272][446]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2021.02.27-17.44.15:687][494]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity2)
+[2021.02.27-17.44.15:885][514]Cmd: DELETE
+[2021.02.27-17.44.15:885][514]Cmd: ACTOR DELETE
+[2021.02.27-17.44.15:888][514]LogEditorActor: Deleted Actor: door_proximity_C
+[2021.02.27-17.44.15:894][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.27-17.44.15:895][514]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.02.27-17.44.16:267][557]LogEditorViewport: Clicking on Actor (LMB): door_keycard_C (door_keycard)
+[2021.02.27-17.44.16:364][565]Cmd: DELETE
+[2021.02.27-17.44.16:364][565]Cmd: ACTOR DELETE
+[2021.02.27-17.44.16:367][565]LogEditorActor: Deleted Actor: door_keycard_C
+[2021.02.27-17.44.16:373][565]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.27-17.44.16:374][565]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.02.27-17.44.16:675][600]LogEditorViewport: Clicking on Actor (LMB): pressure_pad_C (pressure_pad)
+[2021.02.27-17.44.16:807][612]Cmd: DELETE
+[2021.02.27-17.44.16:807][612]Cmd: ACTOR DELETE
+[2021.02.27-17.44.16:809][612]LogEditorActor: Deleted Actor: pressure_pad_C
+[2021.02.27-17.44.16:815][612]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.27-17.44.16:816][612]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.02.27-17.44.17:322][672]LogEditorViewport: Clicking on Actor (LMB): door_pressure_C (door_pressure)
+[2021.02.27-17.44.17:420][680]Cmd: DELETE
+[2021.02.27-17.44.17:420][680]Cmd: ACTOR DELETE
+[2021.02.27-17.44.17:422][680]LogEditorActor: Actor door_pressure is referenced by pressure_pad2.
+[2021.02.27-17.44.19:061][680]LogSlate: Window 'Message' being destroyed
+[2021.02.27-17.44.19:066][680]Message dialog closed, result: No, title: Message, text: Actor door_pressure is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+pressure_pad2
+[2021.02.27-17.44.19:072][680]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.02.27-17.44.19:073][680]LogEditorActor: Deleted 0 Actors (0.009 secs)
+[2021.02.27-17.44.20:332][829]LogEditorViewport: Clicking on Actor (LMB): keycard_C (keycard)
+[2021.02.27-17.44.20:627][861]Cmd: DELETE
+[2021.02.27-17.44.20:627][861]Cmd: ACTOR DELETE
+[2021.02.27-17.44.20:628][861]LogEditorActor: Deleted Actor: keycard_C
+[2021.02.27-17.44.20:634][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.02.27-17.44.20:635][861]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2021.02.27-17.44.23:644][178]LogEditorViewport: Clicking on Actor (LMB): pressure_pad_C (pressure_pad2)
+[2021.02.27-17.44.23:975][212]Cmd: DELETE
+[2021.02.27-17.44.23:975][212]Cmd: ACTOR DELETE
+[2021.02.27-17.44.23:977][212]LogEditorActor: Deleted Actor: pressure_pad_C
+[2021.02.27-17.44.23:983][212]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.02.27-17.44.23:984][212]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.02.27-17.44.24:481][271]LogEditorViewport: Clicking on Actor (LMB): door_pressure_C (door_pressure)
+[2021.02.27-17.44.24:623][284]Cmd: DELETE
+[2021.02.27-17.44.24:623][284]Cmd: ACTOR DELETE
+[2021.02.27-17.44.24:625][284]LogEditorActor: Deleted Actor: door_pressure_C
+[2021.02.27-17.44.24:631][284]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.02.27-17.44.24:632][284]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.02.27-17.44.25:668][406]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.02.27-17.44.25:693][406]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap244DC4C1401F68F144BEDF827E0B448E.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.02.27-17.44.25:814][406]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap_BuiltData1CCB7C564712299BFE90AD851705A489.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.02.27-17.44.25:822][406]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-17.44.25:822][406]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.02.27-17.44.25:822][406]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.02.27-17.44.27:820][640]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MyDoors/door_button.door_button'
+[2021.02.27-17.44.27:822][640]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MyDoors/door_keycard.door_keycard'
+[2021.02.27-17.44.27:823][640]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MyDoors/door_pressure.door_pressure'
+[2021.02.27-17.44.27:824][640]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MyDoors/door_proximity.door_proximity'
+[2021.02.27-17.44.27:843][640]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MyDoors/pressure_pad.pressure_pad'
+[2021.02.27-17.44.27:844][640]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/MyDoors/keycard.keycard'
+[2021.02.27-17.44.32:313][123]LogSlate: Window 'Message Log' being destroyed
+[2021.02.27-17.44.32:316][123]LogSlate: Window 'Message Log' being destroyed
+[2021.02.27-17.44.41:277][ 62]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.27-17.44.46:064][592]Cmd: SELECT NONE
+[2021.02.27-17.44.47:289][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.02.27-17.44.47:319][703]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap49AA5C9C40A59D3A9A0FC1B3803CB20C.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.02.27-17.44.47:444][703]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap_BuiltData8198BC56436B95F46E6E26B33F3F286A.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.02.27-17.44.47:452][703]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-17.44.47:452][703]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.02.27-17.44.47:452][703]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.02.27-17.44.48:150][751]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/keycard.keycard
+[2021.02.27-17.44.49:099][751]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 126 classes and 0 folders.
+[2021.02.27-17.44.50:585][751]LogSlate: Took 0.016838 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.02.27-17.44.50:712][752]LogSlate: Took 0.011920 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.02.27-17.44.51:829][857]LogSlate: Window 'keycard' being destroyed
+[2021.02.27-17.44.52:802][965]LogRenderer: Reallocating scene render targets to support 1144x924 Format 10 NumSamples 1 (Frame:1).
+[2021.02.27-17.44.54:912][192]BlueprintLog: New page: Compile keycard
+[2021.02.27-17.44.54:947][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2021.02.27-17.44.54:989][192]LogSlate: Took 0.018999 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.02.27-17.44.55:308][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/keycard" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/keycard.uasset" SILENT=true
+[2021.02.27-17.44.55:328][227]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/keycard69710A6641B76A7C137BDFAF167F9845.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/keycard.uasset'
+[2021.02.27-17.44.55:337][227]AssetCheck: New page: Asset Save: keycard
+[2021.02.27-17.44.55:337][227]LogContentValidation: Display: Validating Blueprint /Game/Doors/keycard.keycard
+[2021.02.27-17.44.55:889][289]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.44.55:889][289]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.44.57:197][370]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/door_proximity.door_proximity
+[2021.02.27-17.44.59:094][503]LogSlate: Window 'door_proximity' being destroyed
+[2021.02.27-17.45.00:015][582]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/door_pressure.door_pressure
+[2021.02.27-17.45.01:799][703]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/keycard.keycard
+[2021.02.27-17.45.03:314][796]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/door_keycard.door_keycard
+[2021.02.27-17.45.04:915][888]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/door_button.door_button
+[2021.02.27-17.45.06:415][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Doors/pressure_pad.pressure_pad
+[2021.02.27-17.45.11:887][536]BlueprintLog: New page: Compile door_proximity
+[2021.02.27-17.45.11:951][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.02.27-17.45.12:158][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_proximity" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_proximity.uasset" SILENT=true
+[2021.02.27-17.45.12:181][551]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_proximityA7BAC5F0455D74EF473B7D9F7A95817E.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_proximity.uasset'
+[2021.02.27-17.45.12:190][551]AssetCheck: New page: Asset Save: door_proximity
+[2021.02.27-17.45.12:190][551]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_proximity.door_proximity
+[2021.02.27-17.45.12:724][612]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.45.12:724][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.45.18:842][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_pressure" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_pressure.uasset" SILENT=true
+[2021.02.27-17.45.18:865][304]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_pressureB96F89EE4CC73AC4CC718089C1033479.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_pressure.uasset'
+[2021.02.27-17.45.18:873][304]AssetCheck: New page: Asset Save: door_pressure
+[2021.02.27-17.45.18:873][304]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_pressure.door_pressure
+[2021.02.27-17.45.19:303][351]BlueprintLog: New page: Compile door_pressure
+[2021.02.27-17.45.19:362][351]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.02.27-17.45.19:560][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_pressure" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_pressure.uasset" SILENT=true
+[2021.02.27-17.45.19:581][366]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_pressure53E028BE47559AC2D5B4879D0A8A909E.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_pressure.uasset'
+[2021.02.27-17.45.19:590][366]AssetCheck: New page: Asset Save: door_pressure
+[2021.02.27-17.45.19:591][366]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_pressure.door_pressure
+[2021.02.27-17.45.20:291][447]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.27-17.45.20:291][447]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.45.20:291][447]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.45.22:462][689]BlueprintLog: New page: Compile keycard
+[2021.02.27-17.45.22:509][689]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.02.27-17.45.22:724][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/keycard" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/keycard.uasset" SILENT=true
+[2021.02.27-17.45.22:744][705]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/keycard66AA60AC425607FAD49F6595CA2A554E.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/keycard.uasset'
+[2021.02.27-17.45.22:753][705]AssetCheck: New page: Asset Save: keycard
+[2021.02.27-17.45.22:753][705]LogContentValidation: Display: Validating Blueprint /Game/Doors/keycard.keycard
+[2021.02.27-17.45.23:324][769]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.27-17.45.23:324][769]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.45.23:324][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.45.27:727][265]BlueprintLog: New page: Compile door_keycard
+[2021.02.27-17.45.27:778][265]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2021.02.27-17.45.27:994][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_keycard" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_keycard.uasset" SILENT=true
+[2021.02.27-17.45.28:020][282]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_keycard993F845C449D074AEEEB06A4D718F3FE.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_keycard.uasset'
+[2021.02.27-17.45.28:028][282]AssetCheck: New page: Asset Save: door_keycard
+[2021.02.27-17.45.28:028][282]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_keycard.door_keycard
+[2021.02.27-17.45.28:833][375]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.27-17.45.28:833][375]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.45.28:833][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.45.32:661][796]BlueprintLog: New page: Compile door_button
+[2021.02.27-17.45.32:707][796]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.02.27-17.45.32:942][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/door_button" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_button.uasset" SILENT=true
+[2021.02.27-17.45.32:967][817]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/door_button17C7AC3E4305B8DB9189BBB793ED25E8.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/door_button.uasset'
+[2021.02.27-17.45.32:976][817]AssetCheck: New page: Asset Save: door_button
+[2021.02.27-17.45.32:976][817]LogContentValidation: Display: Validating Blueprint /Game/Doors/door_button.door_button
+[2021.02.27-17.45.33:923][925]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.27-17.45.33:923][925]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.45.33:924][925]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.45.40:137][621]BlueprintLog: New page: Compile pressure_pad
+[2021.02.27-17.45.40:178][621]LogUObjectHash: Compacting FUObjectHashTables data took   4.53ms
+[2021.02.27-17.45.40:410][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Doors/pressure_pad" FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/pressure_pad.uasset" SILENT=true
+[2021.02.27-17.45.40:431][643]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/pressure_padE5AB26D6463C78132DB947906449F9EA.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/Doors/pressure_pad.uasset'
+[2021.02.27-17.45.40:440][643]AssetCheck: New page: Asset Save: pressure_pad
+[2021.02.27-17.45.40:440][643]LogContentValidation: Display: Validating Blueprint /Game/Doors/pressure_pad.pressure_pad
+[2021.02.27-17.45.40:934][701]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.02.27-17.45.40:934][701]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.45.40:934][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.45.42:662][899]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity)
+[2021.02.27-17.45.57:818][432]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.27-17.46.08:112][539]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.27-17.46.13:851][222]Cmd: TRANSACTION UNDO
+[2021.02.27-17.46.13:851][222]LogEditorTransaction: Undo Snap Actors To Floor
+[2021.02.27-17.46.14:120][229]Cmd: TRANSACTION UNDO
+[2021.02.27-17.46.14:120][229]LogEditorTransaction: Undo Move Actors
+[2021.02.27-17.46.16:102][438]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.27-17.46.18:963][777]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.27-17.46.26:971][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.27-17.46.43:420][251]Cmd: DELETE
+[2021.02.27-17.46.43:420][251]Cmd: ACTOR DELETE
+[2021.02.27-17.46.43:424][251]LogEditorActor: Deleted Actor: door_button_C
+[2021.02.27-17.46.43:459][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2021.02.27-17.46.43:467][251]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2021.02.27-17.46.45:538][437]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.02.27-17.46.54:588][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.02.27-17.46.54:626][401]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap7F0B088E4F62A433303E33BFD110429C.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.02.27-17.46.54:753][401]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap_BuiltData0470CCB24817B9C5AA1E6D8257007295.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.02.27-17.46.54:763][401]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-17.46.54:764][401]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.02.27-17.46.54:764][401]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.02.27-17.46.57:625][714]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity)
+[2021.02.27-17.46.59:870][937]LogEditorViewport: Clicking on Actor (LMB): door_button_C (door_button)
+[2021.02.27-17.47.00:787][ 23]LogEditorViewport: Clicking on Actor (LMB): door_keycard_C (door_keycard)
+[2021.02.27-17.47.03:569][309]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity2)
+[2021.02.27-17.47.05:554][535]LogEditorViewport: Clicking on Actor (LMB): keycard_C (keycard)
+[2021.02.27-17.47.10:812][120]LogEditorViewport: Clicking on Actor (LMB): door_pressure_C (door_pressure)
+[2021.02.27-17.47.12:321][253]LogEditorViewport: Clicking on Actor (LMB): pressure_pad_C (pressure_pad)
+[2021.02.27-17.47.15:979][653]LogEditorViewport: Clicking on Actor (LMB): pressure_pad_C (pressure_pad2)
+[2021.02.27-17.47.19:033][989]LogTemp: Repeating last play command: Selected Viewport
+[2021.02.27-17.47.19:079][989]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.02.27-17.47.19:097][989]PIE: New page: PIE session: TopDownExampleMap (Feb 27, 2021, 7:47:19 AM)
+[2021.02.27-17.47.19:109][989]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.02.27-17.47.19:121][989]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.02.27-17.47.19:131][989]LogPlayLevel: Creating play world package: /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.02.27-17.47.19:143][989]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012057s)
+[2021.02.27-17.47.19:145][989]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2021.02.27-17.47.19:145][989]LogPlayLevel: PIE: World Init took: (0.002022s)
+[2021.02.27-17.47.19:146][989]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap to /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap (0.014334s)
+[2021.02.27-17.47.19:174][989]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.02.27-17.47.19:180][989]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.02.27-17.47.19:180][989]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.02.27-17.47.19:180][989]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.02.27-17.47.19:180][989]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.02.27-17.47.19:180][989]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.02.27-17.47.19:180][989]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.02.27-17.47.19:180][989]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.02.27-17.47.19:180][989]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.02.27-17.47.19:180][989]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.02.27-17.47.19:181][989]LogAudio: Display: Using built-in audio occlusion.
+[2021.02.27-17.47.19:181][989]LogAudioMixer: Display: Initializing audio mixer.
+[2021.02.27-17.47.19:183][989]LogAudioMixer: Display: 0: FrontLeft
+[2021.02.27-17.47.19:183][989]LogAudioMixer: Display: 1: FrontRight
+[2021.02.27-17.47.19:195][989]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.02.27-17.47.19:195][989]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.02.27-17.47.19:195][989]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.02.27-17.47.19:195][989]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.02.27-17.47.19:196][989]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.02.27-17.47.19:196][989]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.02.27-17.47.19:196][989]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.02.27-17.47.19:213][989]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.02.27-17.47.19:213][989]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.02.27-17.47.19:213][989]LogInit: FAudioDevice initialized.
+[2021.02.27-17.47.19:213][989]LogAudio: Display: Audio Device (ID: 2) registered with world 'TopDownExampleMap'.
+[2021.02.27-17.47.19:222][989]LogLoad: Game class is 'TopDownGameMode_C'
+[2021.02.27-17.47.19:243][989]LogWorld: Bringing World /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap.TopDownExampleMap up for play (max tick rate 0) at 2021.02.27-12.47.19
+[2021.02.27-17.47.19:299][989]LogWorld: Bringing up level for play took: 0.058433
+[2021.02.27-17.47.19:299][989]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.02.27-17.47.19:329][989]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.02.27-17.47.19:331][989]PIE: Server logged in
+[2021.02.27-17.47.19:332][989]PIE: Play in editor total start time 0.266 seconds.
+[2021.02.27-17.47.37:789][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.27-17.47.37:789][140]LogWorld: BeginTearingDown for /Game/TopDownBP/Maps/UEDPIE_0_TopDownExampleMap
+[2021.02.27-17.47.37:789][140]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.47.37:789][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.47.37:797][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.02.27-17.47.37:809][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.47.37:832][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.27-17.47.37:851][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.27-17.47.37:852][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.02.27-17.47.37:880][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.02.27-17.47.37:933][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2021.02.27-17.47.37:978][141]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.02.27-17.47.38:930][248]Cmd: SELECT NONE
+[2021.02.27-17.47.42:428][590]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.02.27-17.47.42:460][590]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMapC8EBC85D403E5A0A22A7E2BB5ACB457A.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap.umap'
+[2021.02.27-17.47.42:585][590]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/TopDownExampleMap_BuiltData151EC46E44864225EC01F1B6B7D1EBDD.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/TopDownExampleMap_BuiltData.uasset'
+[2021.02.27-17.47.42:597][590]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-17.47.42:597][590]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/TopDownExampleMap_BuiltData.TopDownExampleMap_BuiltData
+[2021.02.27-17.47.42:598][590]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/TopDownExampleMap.TopDownExampleMap
+[2021.02.27-17.47.57:741][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.02.27-17.48.03:120][449]LogSlate: Window 'Save Content' being destroyed
+[2021.02.27-17.48.03:215][449]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.02.27-17.48.03:215][449]Cmd: MAP LOAD FILE="../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.02.27-17.48.03:237][449]LightingResults: New page: Lighting Build
+[2021.02.27-17.48.03:237][449]LoadErrors: New page: Loading map: DavisSlime.umap
+[2021.02.27-17.48.03:239][449]LogWorld: UWorld::CleanupWorld for TopDownExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.02.27-17.48.03:239][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.02.27-17.48.03:239][449]MapCheck: New page: Map Check
+[2021.02.27-17.48.03:239][449]LightingResults: New page: Lighting Build
+[2021.02.27-17.48.03:253][449]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.02.27-17.48.03:258][449]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.02.27-17.48.03:570][449]LogAudio: Display: Audio Device (ID: 1) registered with world 'DavisSlime'.
+[2021.02.27-17.48.03:571][449]LogAIModule: Creating AISystem for world DavisSlime
+[2021.02.27-17.48.03:583][449]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.02.27-17.48.03:601][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.02.27-17.48.03:628][449]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.02.27-17.48.03:628][449]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.107ms to complete.
+[2021.02.27-17.48.03:628][449]LogFileHelpers: Loading map 'DavisSlime' took 0.413
+[2021.02.27-17.48.03:629][449]LogSlate: Window 'Open Level' being destroyed
+[2021.02.27-17.48.06:910][772]LogEditorViewport: Clicking on Actor (LMB): door_proximity_C (door_proximity)
+[2021.02.27-17.48.07:569][847]Cmd: DELETE
+[2021.02.27-17.48.07:569][847]Cmd: ACTOR DELETE
+[2021.02.27-17.48.07:572][847]LogEditorActor: Deleted Actor: door_proximity_C
+[2021.02.27-17.48.07:589][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2021.02.27-17.48.07:591][847]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2021.02.27-17.48.08:420][941]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2021.02.27-17.48.08:449][941]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime952AA5914007C26ECACD4294CCA0198B.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime.umap'
+[2021.02.27-17.48.08:833][941]LogSavePackage: Moving '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Saved/DavisSlime_BuiltData3619F534487CBD9E0FF07BABE294E24B.tmp' to '../../../../../../helms/Documents/GitHub/Unreal-Projects-Demo-And-Testing/Doors_Demo/Content/TopDownBP/Maps/DavisSlime_BuiltData.uasset'
+[2021.02.27-17.48.08:843][941]AssetCheck: New page: Asset Save: multiple assets
+[2021.02.27-17.48.08:843][941]LogContentValidation: Display: Validating World /Game/TopDownBP/Maps/DavisSlime.DavisSlime
+[2021.02.27-17.48.08:843][941]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/TopDownBP/Maps/DavisSlime_BuiltData.DavisSlime_BuiltData
+[2021.02.27-17.48.10:345][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2021.02.27-17.48.15:131][ 87]LogSlate: Window 'Delete Assets' being destroyed
+[2021.02.27-17.48.15:144][ 87]LogUObjectGlobals: Force Deleting 18 Package(s):
+	Asset Name: /Game/MyDoors/door_proximity.door_proximity_C
+	Asset Name: /Game/MyDoors/door_proximity.door_proximity
+	Asset Name: /Game/MyDoors/door_proximity.Default__door_proximity_C
+	Asset Name: /Game/MyDoors/door_button.door_button
+	Asset Name: /Game/MyDoors/door_keycard.door_keycard
+	Asset Name: /Game/MyDoors/door_pressure.door_pressure
+	Asset Name: /Game/MyDoors/pressure_pad.pressure_pad
+	Asset Name: /Game/MyDoors/keycard.keycard
+	Asset Name: /Game/MyDoors/door_button.Default__door_button_C
+	Asset Name: /Game/MyDoors/door_button.door_button_C
+[2021.02.27-17.48.15:414][ 87]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.02.27-17.48.17:133][ 87]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.719 s
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: === Handled ensure: ===
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: 
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: Cannot remove redirection from /Game/MyDoors/door_proximity.door_proximity_C, it was not registered
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: Stack: 
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ce416988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cdfe8ae1 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8d8bf4b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8aba5d68b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8aba68bf9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ab1c40d9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.27-17.48.17:133][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ab49fc7e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ab497157 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cc0985fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cc0b077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbef46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf77f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf60367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf53642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db93bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db929197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db93e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db924310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff9119fe858 USER32.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff9119fe299 USER32.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db93f7a9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf82274 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf1d486 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8ab52c11e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8aba5c888 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8a1f86de8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8904270e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8904272ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff890417a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8a2790083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8a2789532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8a28080a2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8a278cfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cc0985fe UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cc0b077e UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbef46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf77f54 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf60367 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8cbf53642 UE4Editor-Slate.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db93bca5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db929197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db93e379 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db924310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff9119fe858 USER32.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff9119fe299 USER32.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff8db93f904 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff63f588857 UE4Editor.exe!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff63f5a11ac UE4Editor.exe!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff63f5a128a UE4Editor.exe!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff63f5b52ed UE4Editor.exe!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff63f5b801a UE4Editor.exe!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff911917034 KERNEL32.DLL!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: [Callstack] 0x00007ff91303d241 ntdll.dll!UnknownFunction []
+[2021.02.27-17.48.17:134][ 87]LogOutputDevice: Error: 
